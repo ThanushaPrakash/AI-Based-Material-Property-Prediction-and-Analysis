@@ -2,8 +2,6 @@
 
 ### An Explainable Machine Learning System for Materials Property Prediction and Recommendation
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Python-3.11-blue?logo=python](https://img.shields.io/badge/Python-3.11-blue?logo=python)" />   \<img src="[https://img.shields.io/badge/Framework-Streamlit-FF4B4B?logo=streamlit](https://img.shields.io/badge/Framework-Streamlit-FF4B4B?logo=streamlit)" />   \<img src="[https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?logo=scikitlearn](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?logo=scikitlearn)" />   \<img src="[https://img.shields.io/badge/Dataset-Matbench-green](https://img.shields.io/badge/Dataset-Matbench-green)" /> \</p>
-
 ---
 
 ## 🌌 Overview
