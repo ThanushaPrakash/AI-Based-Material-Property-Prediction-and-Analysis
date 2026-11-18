@@ -323,6 +323,3 @@ Computer Science and Engineering | Artificial Intelligence
 
 ---
 
-\<p align="center">
-&#x20; \<i>Exploring materials through data, intelligence, and machine learning. ⚛️\</i>
-\</p>
